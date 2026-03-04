@@ -2,4 +2,4 @@ tutorial:
 atzime
 un parbadui
 DONE
-![Alt text](https://example.com/path/to/image.png)
+![Alt text](Screenshot 2026-03-04 150910.png)
